@@ -11,4 +11,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-This is a text file. Testing
+This is a text file.
